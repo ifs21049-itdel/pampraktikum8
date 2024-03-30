@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">PAM Tantangan Praktikum 8</string>
+    <string name="info_email_sender">Nama Pengirim Email</string>
+    <string name="info_email_subject">Subject Email</string>
+    <string name="info_email_icon">Icon Pengirim Email</string>
+    <string name="info_email_text">Text Email</string>
+
+    <string-array name="email_icon">
+        <item>@drawable/woman</item>
+        <item>@drawable/man</item>
+        <item>@drawable/woman</item>
+        <item>@drawable/man</item>
+        <item>@drawable/woman</item>
+        <item>@drawable/man</item>
+        <item>@drawable/woman</item>
+        <item>@drawable/man</item>
+        <item>@drawable/woman</item>
+        <item>@drawable/man</item>
+    </string-array>
+    <string-array name="email_subject">
+        <item>Subject 1</item>
+        <item>Subject 2</item>
+        <item>Subject 3</item>
+        <item>Subject 4</item>
+        <item>Subject 5</item>
+        <item>Subject 6</item>
+        <item>Subject 7</item>
+        <item>Subject 8</item>
+        <item>Subject 9</item>
+        <item>Subject 10</item>
+    </string-array>
+    <string-array name="email_sender">
+        <item>Sender 1</item>
+        <item>Sender 2</item>
+        <item>Sender 3</item>
+        <item>Sender 4</item>
+        <item>Sender 5</item>
+        <item>Sender 6</item>
+        <item>Sender 7</item>
+        <item>Sender 8</item>
+        <item>Sender 9</item>
+        <item>Sender 10</item>
+    </string-array>
+    <string-array name="email_text">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</item>
+    </string-array>
+</resources>
